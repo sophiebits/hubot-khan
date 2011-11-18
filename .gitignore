@@ -1,2 +1,4 @@
-node_modules
+node_modules/.bin
+node_modules/hubot-scripts
+node_modules/optparse
 .DS_Store*
