@@ -1,4 +1,6 @@
 node_modules/.bin
 node_modules/hubot-scripts
 node_modules/optparse
+node_modules/wobot
+secrets.sh
 .DS_Store*
